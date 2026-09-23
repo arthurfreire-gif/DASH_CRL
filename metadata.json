@@ -1,0 +1,6 @@
+{
+  "name": "Consultoria de Relacionamento",
+  "description": "Plataforma de gestão de visitas, investimentos e conversão por consultor de relacionamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
